@@ -8,4 +8,3 @@ test no-ff
 test stash
 test cherry
 1222
-
